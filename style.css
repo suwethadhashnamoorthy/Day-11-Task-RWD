@@ -1,0 +1,33 @@
+body {
+    border: 1px solid gray;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.container {
+    margin: 40px;
+    padding: 10px;   
+    line-height: 25px;
+    
+}
+.icons:hover {
+    text-decoration: display;
+}
+img {
+    width: 400px;
+    height: 350px;
+    margin: 15px;
+}
+span {
+    background-color:#e1e1ea;
+    border-radius: 5px;
+}
+.list {
+    line-height: 30px;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
